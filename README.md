@@ -22,5 +22,5 @@ This open-sourced script enable sex identification from dental enamel based on u
 8. Copy and Paste the scritp from GitHub to Rstudio, and press "enter"
 9. Import your MaxQuant output files: peptides.txt and msms.txt
 10. In Peptide list tab, uncheck undesired peptides
-11. In Graph and Table tab, ddd a label if desired
+11. In Graph and Table tab, add a label if desired
 12. Click on "Download the Graph" and "Download the Table"
